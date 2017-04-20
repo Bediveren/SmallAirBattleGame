@@ -7,4 +7,4 @@ ENTER to start/restart the game
 ARROW KEYS to move  
 SPACE to shoot  
 
-WARNING: LOUD SOUND EFFECTS  
+**WARNING: LOUD SOUND EFFECTS**
